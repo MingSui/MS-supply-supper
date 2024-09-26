@@ -28,7 +28,7 @@ const Register = () => {
             <h2>注册</h2>
             <form onSubmit={handleSubmit}>
                 <div>
-                    <label>用户名:</label>
+                    <label>用户名，但第二次提交:</label>
                     <input
                         type="text"
                         value={username}
